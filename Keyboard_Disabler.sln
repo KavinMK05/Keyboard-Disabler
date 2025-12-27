@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyboard_Disabler", "Keyboard_Disabler\Keyboard_Disabler.csproj", "{F3AC9A7F-39BB-4757-9D35-247974C31799}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{199293BC-CA59-4665-9803-70C0C6568177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AC9A7F-39BB-4757-9D35-247974C31799}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AC9A7F-39BB-4757-9D35-247974C31799}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F3AC9A7F-39BB-4757-9D35-247974C31799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AC9A7F-39BB-4757-9D35-247974C31799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199293BC-CA59-4665-9803-70C0C6568177}.Debug|Any CPU.ActiveCfg = Debug
+		{199293BC-CA59-4665-9803-70C0C6568177}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {357E6BD8-EF80-4A2F-950A-E96267C80C01}
+	EndGlobalSection
+EndGlobal
